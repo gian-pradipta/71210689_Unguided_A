@@ -1,0 +1,7 @@
+2. Dituangkan kopi, terdapat dua jalan: kiri dan kanan. Kopi tersebut bisa melewati kedua jalan tersebut.
+
+- jalan kiri
+Terdapat dua jalan lagi: kiri dan kanan. Karena jalan bagian kiri mempunyai tertutup, kopi tidak bisa melaluinya dan hanya bisa melalui jalan kanan. Di ujung jalan kanan, jalan tersebut tertutup sehingga kopi tidak bisa lewat lagi.
+
+-jalan kanan
+Terdapat tiga jalan: kiri, kanan, dan bawah. Kopi bisa melewati ketiga jalan tersebut. Jalan kanan menuju ke cangkir nomor 7, jalan kiri menuju cangkir nomer 5, sedangkan jalan bawah mempunyai ujung buntu. Pada pertengahan jalan kanan, jalan tersebut tertutup sehingga kopi hanya bisa lewat jalan kiri dan hanya bisa mengisi cangkir nomer 5 dari keempat cangkir sehingga cangkir yang akan terisi adalah cangkir nomer 5.
